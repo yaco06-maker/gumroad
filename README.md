@@ -28,7 +28,7 @@
   - [Common Development Tasks](#common-development-tasks)
   - [Linting](#linting)
 
-## Getting Started
+## Getting Start
 
 ### Prerequisites
 
